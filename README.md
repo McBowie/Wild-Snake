@@ -2,6 +2,6 @@
 
 A fun little Snake game
 
-#SEIZURE WARNING
+## SEIZURE WARNING
 
-#Flashing colors, and nauseating movement ahead
+Flashing colors, and nauseating movement ahead
